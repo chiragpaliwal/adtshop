@@ -6,3 +6,5 @@ WEBSITE LG/product_template.xlsx
 WEBSITE LG/WM/desktop.ini
 WEBSITE LG/WM/SM/P7010NBAZ/desktop.ini
 WEBSITE LG/WM/SM/P8535SKMZ/desktop.ini
+.DS_Store
+*.xlsx
